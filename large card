@@ -1,0 +1,74 @@
+<div class="row pt-md-3">
+    <div class="col-lg-9 col-md-10 mx-auto">
+      <div class="accordion" id="accordionExample">
+        <div class="subject-card mt-4">
+          <div class="subject-card-header p-0" id="headingOne">
+            <a href="#" class="card__title p-3 p-lg-4 collapsed d-block" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false"
+              aria-controls="collapseOne">
+              <div class="row">
+                <div class="col-md-5 subject-img">
+                  <img src="assets/images/s1.jpg" class="img-fluid img-curve" alt="" />
+                </div>
+                <div class="col-md-7 subject-content mt-md-0 mt-4">
+                  <h3>നമ്മുടെ നബി ﷺ  മുഖവുര</h3>
+                  <p>1.ഒരു സൂറത്തില്‍ 25 പ്രാവശ്യം പ്രതിപാദിക്കപ്പെട്ട നബി ?</p>
+                  <span class="course-number"><span class="fa fa-graduation-cap" aria-hidden="true"></span> 5 Questions & Answers</span>
+                  <p class="sub-para"></p>
+                </div>
+              </div>
+              <span class="collapsed">
+                 Answers <i class="fa fa-chevron-down" aria-hidden="true"></i>
+              </span>
+              <span class="expanded">
+                Questions <i class="fa fa-chevron-up" aria-hidden="true"></i>
+              </span>
+            </a>
+            
+          </div>
+
+          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+            <div class="card-body p-3 p-lg-4">
+              <div class="row">
+                <div class="col-md-6 pr-md-4">
+                  <div class="course-details">
+                    <h4></h4>
+                    <ul>
+                      <li><img src="assets/images/check.png" alt="tick">1.യൂസുഫ് നബി (അ). </li>
+                      <li><img src="assets/images/check.png" alt="tick"> </li>
+                      <li><img src="assets/images/check.png" alt="tick"> </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-7 subject-content mt-md-0 mt-4">
+                  <h3>Web Development</h3>
+                  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. In quaerat voluptates nisi minus sed eligendi nam et atque
+                    perferendis dignissimos!</p>
+                  <span class="course-number"><span class="fa fa-graduation-cap" aria-hidden="true"></span> 16 Courses</span>
+                  <p class="sub-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis in atque odio....</p>
+                </div>
+              </div>
+              <span class="collapsed">
+                Show More <i class="fa fa-chevron-down" aria-hidden="true"></i>
+              </span>
+              <span class="expanded">
+                Show Less <i class="fa fa-chevron-up" aria-hidden="true"></i>
+              </span>
+            </a>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample" style="">
+            <div class="card-body para__style">
+              <div class="row">
+                <div class="col-md-6 pr-md-4">
+                  <div class="course-details">
+                    <h4>The Way Of Knowledge</h4>
+                    <ul>
+                      <li><img src="assets/images/check.png" alt="tick"> overall student-athelete GPA for Spring 2023</li>
+                      <li><img src="assets/images/check.png" alt="tick"> bachelor's recipients were employed or both within six months of</li>
+                      <li><img src="assets/images/check.png" alt="tick"> gradueates hold a position related to their degree or career objective</li>
+                    </ul>
+                  </div>
+                 
+              </div>
+            </div>
+          </div>
+        </div>

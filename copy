@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>മുത്ത് നബി ﷺ </title>
+    <title> നൂഹ് നബി (അ)</title>
 
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style-starter.css">
@@ -74,26 +74,20 @@
 <nav id="breadcrumbs" class="breadcrumbs">
     <div class="container page-wrapper text-center">
         <div class="header-section">
-            <h2 class="mb-2"> മുത്ത് നബി ﷺ </h2>
+            <h2 class="mb-2">  നൂഹ് നബി (അ) : ചരിത്രം</h2>
         </div>
-        <a href="index.html">Home</a> » <span class="breadcrumb_last" aria-current="page">മുത്ത് നബി ﷺ </span>
+        <a href="index.html">Home</a> » <span class="breadcrumb_last" aria-current="page">നൂഹ് (അ)</span>
     </div>
 </nav>
 <!-- courses Section -->
 <section class="w3l-index2 py-5">
-  <div class="container py-md-3">
-    <div class="header-section text-center mx-auto">
-      <h3>The way Of Knowledge</h3>
-      <p class="my-3"> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-        Nulla mollis dapibus nunc, ut rhoncus
-        turpis sodales quis. Integer sit amet mattis quam.</p>
-    </div>
+ 
     <div class="row bottom_grids pt-md-3 text-center">
       <div class="col-lg-4 col-md-6 mt-5">
         <div class="s-block">
           <a href="history.html" class="d-block p-lg-4 p-3">
             <img src="assets/images/s1.png" alt="" class="img-fluid img-curve" />
-            <h3 class="my-3">aran nammude nabi</h3>
+            <h3 class="my-3">ആരാണ് പ്രവാചകൻ നൂഹ്(അ)</h3>
             <p class="">1</p>
           </a>
         </div>
